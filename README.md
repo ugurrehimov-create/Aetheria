@@ -1,4 +1,4 @@
-# Aetheria v27 — Equipment-Aware Framing
+# VesperNode v27 — Equipment-Aware Framing
 
 This version builds on v21's Session Log improvements and improves how the saved imaging setup informs framing and exposure guidance.
 
